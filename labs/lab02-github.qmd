@@ -57,6 +57,8 @@ git push
 ### Add link to your repo below in the cell chunk:
 
 ```sh
+Github: https://github.com/Isaac-A-UofT/JSC370
+Link foor Cloning: https://github.com/Isaac-A-UofT/JSC370.git
 
 ```
 
@@ -179,9 +181,11 @@ For more information checkout [Creating a pull request](https://docs.github.com/
 * Add details of the pull request below (the commit id of your change (you can find this using `git log`)
 
 ```sh
-commit:
-Author:
-Date:
+commit a72a3e9780ed9681805305f26ac75db79f237d9a (HEAD -> Isaac-Abell, origin/Isaac-Abell)
+Author: Isaac-A-UofT <isaac.abell@mail.utoronto.ca>
+Date:   Wed Jan 14 13:45:00 2026 -0500
+
+    update name with info
 ```
 
 ---
